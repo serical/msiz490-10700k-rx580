@@ -40,14 +40,14 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 
 ## GeekBench 跑分
-![CPU跑分](../images/cpu.png)
-![显卡跑分](../images/dgpu-opencl.png)
-![显卡跑分](../images/dgpu-metal.png)
+![CPU跑分](./images/cpu.png)
+![显卡跑分](./images/dgpu-opencl.png)
+![显卡跑分](./images/dgpu-metal.png)
 
 
 ## 系统预览
-![概览](../images/sys.png)
-![核显加速](../images/igpu.png)
-![显卡](../images/dgpu.png)
-![USB](../images/usb.png)
-![CPU频率](../images/cpu-frequency.png)
+![概览](./images/sys.png)
+![核显加速](./images/igpu.png)
+![显卡](./images/dgpu.png)
+![USB](./images/usb.png)
+![CPU频率](./images/cpu-frequency.png)
