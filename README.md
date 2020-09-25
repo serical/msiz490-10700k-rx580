@@ -16,7 +16,7 @@
 | 内存  | 科赋KLEVV DDR4 16G 3200*2      |
 | 固态1 | Samsung/三星970PRO 1T(macOS)   |
 | 固态2 | 西部数据SN750 1TB SSD(Windows) |
-| 显卡  | ￼￼华硕（ASUS）DUAL-RX580-O8G   |
+| 显卡  | 华硕（ASUS）DUAL-RX580-O8G   |
 
 
 # BIOS Settings
@@ -40,14 +40,22 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 
 ## GeekBench 跑分
+### CPU跑分
 ![CPU跑分](./images/cpu.png)
+### 显卡OpenCL跑分
 ![显卡跑分](./images/dgpu-opencl.png)
+### 显卡Metal跑分
 ![显卡跑分](./images/dgpu-metal.png)
 
 
 ## 系统预览
+### 概览
 ![概览](./images/sys.png)
+### 核显加速
 ![核显加速](./images/igpu.png)
+### 显卡
 ![显卡](./images/dgpu.png)
+### USB
 ![USB](./images/usb.png)
+### CPU频率
 ![CPU频率](./images/cpu-frequency.png)
